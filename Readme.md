@@ -17,7 +17,7 @@ docker pull ghcr.io/mdilipkeshav-pixel/frappecustom:full
 
 
 docker compose up -d
-fsc@fsc-Latitude-3490:~/frappecustom$ cat docker-compose.yml 
+
 version: "3"
 
 services:
@@ -215,5 +215,5 @@ volumes:
   sites:
   logs:
   apps:
-fsc@fsc-Latitude-3490:~/frappecustom$ 
+
 
